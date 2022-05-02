@@ -7,7 +7,7 @@
     "test": "echo \"no test specified\" && exit 0"
   },
   "dependencies": {
-    "remotedev-serialize": "^0.1.0"
+    "remotedev-serialize": "hugoai/remotedev-serialize"
   },
   "peerDependencies": {
     "redux-persist": "^4.0.0",
